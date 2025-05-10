@@ -53,4 +53,4 @@ This project focuses on analyzing hotel booking cancellations using Excel. The d
 
 ## 📌 Conclusion
 
-This analysis provides meaningful insights for hotel managers to reduce cancellations and understand customer behavior more effectively. Excel proved to be a powerful tool for non-code-based data analytics and dashboard creation.
+This analysis provides meaningful insights for hotel managers to reduce cancellations and understand customer behavior more effectively.
